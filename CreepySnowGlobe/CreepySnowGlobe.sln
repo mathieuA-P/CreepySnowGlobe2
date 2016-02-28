@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3CA43C26-E152-6601-560B-2932C764F066}") = "CreepySnowGlobe", "Assembly-CSharp-firstpass.csproj", "{55E3E66D-8F6B-4DED-4F22-45CF8D81082F}"
+EndProject
+Project("{3CA43C26-E152-6601-560B-2932C764F066}") = "CreepySnowGlobe", "Assembly-CSharp.csproj", "{5C064661-A8AC-9972-D8C3-4541ACAFA138}"
+EndProject
+Project("{3CA43C26-E152-6601-560B-2932C764F066}") = "CreepySnowGlobe", "Assembly-CSharp-Editor.csproj", "{F22242E1-6A77-D08C-9944-9D1CECCB04FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E3E66D-8F6B-4DED-4F22-45CF8D81082F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E3E66D-8F6B-4DED-4F22-45CF8D81082F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E3E66D-8F6B-4DED-4F22-45CF8D81082F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E3E66D-8F6B-4DED-4F22-45CF8D81082F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C064661-A8AC-9972-D8C3-4541ACAFA138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C064661-A8AC-9972-D8C3-4541ACAFA138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C064661-A8AC-9972-D8C3-4541ACAFA138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C064661-A8AC-9972-D8C3-4541ACAFA138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F22242E1-6A77-D08C-9944-9D1CECCB04FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22242E1-6A77-D08C-9944-9D1CECCB04FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22242E1-6A77-D08C-9944-9D1CECCB04FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22242E1-6A77-D08C-9944-9D1CECCB04FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

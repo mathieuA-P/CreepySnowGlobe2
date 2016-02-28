@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 1489d645fd0d20c478cf1f3bada02ec5
+timeCreated: 1456608813
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Baton_Fenetre
+    100002: Baton_Fenetre1
+    100004: Baton_Fenetre2
+    100006: Baton_Fenetre3
+    100008: Fenetre
+    100010: //RootNode
+    100012: Mur
+    100014: Mur 1
+    100016: Mur 2
+    100018: Rebord_Fenetre
+    100020: Rebord_Fenetre1
+    100022: Rebord_Fenetre2
+    100024: Rebord_Fenetre3
+    100026: transform1
+    100028: Vitre
+    400000: Baton_Fenetre
+    400002: Baton_Fenetre1
+    400004: Baton_Fenetre2
+    400006: Baton_Fenetre3
+    400008: Fenetre
+    400010: //RootNode
+    400012: Mur
+    400014: Mur 1
+    400016: Mur 2
+    400018: Rebord_Fenetre
+    400020: Rebord_Fenetre1
+    400022: Rebord_Fenetre2
+    400024: Rebord_Fenetre3
+    400026: transform1
+    400028: Vitre
+    2300000: Baton_Fenetre
+    2300002: Baton_Fenetre1
+    2300004: Baton_Fenetre2
+    2300006: Baton_Fenetre3
+    2300008: Mur 2
+    2300010: Rebord_Fenetre
+    2300012: Rebord_Fenetre1
+    2300014: Rebord_Fenetre2
+    2300016: Rebord_Fenetre3
+    2300018: Vitre
+    3300000: Baton_Fenetre
+    3300002: Baton_Fenetre1
+    3300004: Baton_Fenetre2
+    3300006: Baton_Fenetre3
+    3300008: Mur 2
+    3300010: Rebord_Fenetre
+    3300012: Rebord_Fenetre1
+    3300014: Rebord_Fenetre2
+    3300016: Rebord_Fenetre3
+    3300018: Vitre
+    4300000: Mur
+    4300002: Vitre
+    4300004: Rebord_Fenetre
+    4300006: Rebord_Fenetre3
+    4300008: Rebord_Fenetre2
+    4300010: Rebord_Fenetre1
+    4300012: Baton_Fenetre1
+    4300014: Baton_Fenetre
+    4300016: Baton_Fenetre3
+    4300018: Baton_Fenetre2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
